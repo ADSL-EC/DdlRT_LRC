@@ -1,5 +1,5 @@
 ## DdlRT
-DdlRT is a novel RS code-based data layout scheme designed using combinatorial mathematical tools and deployed on a prototype system. This is the experimental code for DdlRT.
+DdlRT is a novel data layout scheme originally designed for RS codes using combinatorial mathematical tools and deployed on a prototype system. It has now been extended to LRC (Locally Recoverable Codes). This is the experimental code for DdlRT.
 
 ## Prototype
 
